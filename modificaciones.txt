@@ -1,0 +1,1 @@
+en la rama front end, el carrito.js tiene una falla , ya que le falta una barra en el comentario y esta fallando , hay que modificarlo.
